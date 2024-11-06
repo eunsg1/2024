@@ -1,4 +1,5 @@
-시험에 나오는 거
 - boxplot
 - polyfit poly1d
 - hist
+- barh
+- bargraph
