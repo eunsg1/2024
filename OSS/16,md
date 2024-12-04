@@ -1,0 +1,23 @@
+## clone
+
+git clone [주소]: [주소]를 주소로 가진 깃허브 원격저장소 복제.
+
+git clone [주소] [폴더]: [주소]를 주소로 가진 깃허브 원격저장소를 [폴더]라는 이름으로 복제.
+
+git clone [주소] . : 현재 폴더에 바로 복제.
+
+<hr/>
+
+## remote
+
+git remote add origin [주소]: 원격 저장소 별칭 저장 
+
+git remote show origin: 자세한 정보
+
+git remote rename origin org: 이름 수정
+
+git remote rm org: 삭제
+
+<hr/>
+
+소감: remote <-- 뭔 소린지 하등 이해가 안된다. 실습을 통해 익히도록 하자.
